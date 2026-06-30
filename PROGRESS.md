@@ -8,7 +8,7 @@ Coach: Claude (trainer mode)
 ## Week 1 — Python primitives
 - [x] Day 1 — Environment + repo created
 - [x] Day 2 — First Python script + 5 drills (variables, types, f-strings)
-- [ ] Day 3 — Strings + numbers deep drill
+- [x] Day 3 — Strings + numbers deep drill
 - [ ] Day 4 — Control flow (if / elif / else, loops)
 - [ ] Day 5 — Functions
 - [ ] Day 6 — Lists + dicts
@@ -17,6 +17,7 @@ Coach: Claude (trainer mode)
 ## Build streak
 Day 1: 2026-06-28
 Day 2: 2026-06-30
+Day 3: 2026-06-30
 
 ## Roadmap — the full map (so nothing is hidden)
 
