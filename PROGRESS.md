@@ -9,7 +9,7 @@ Coach: Claude (trainer mode)
 - [x] Day 1 — Environment + repo created
 - [x] Day 2 — First Python script + 5 drills (variables, types, f-strings)
 - [x] Day 3 — Strings + numbers deep drill
-- [ ] Day 4 — Control flow (if / elif / else, loops)
+- [x] Day 4 — Control flow (if / elif / else, loops)
 - [ ] Day 5 — Functions
 - [ ] Day 6 — Lists + dicts
 - [ ] Day 7 — Week 1 review + mini-build
@@ -18,6 +18,7 @@ Coach: Claude (trainer mode)
 Day 1: 2026-06-28
 Day 2: 2026-06-30
 Day 3: 2026-06-30
+Day 4: 2026-06-30
 
 ## Roadmap — the full map (so nothing is hidden)
 
